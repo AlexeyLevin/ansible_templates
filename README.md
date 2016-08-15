@@ -1,14 +1,14 @@
 # ansible_templates
 
 >
-
-
-
-
-
-
-
 >
+>
+>
+>
+>
+>
+>
+
 ###for cygwin: 
 
 http://stackoverflow.com/questions/32596203/cygwin-how-to-install-ansible
