@@ -22,3 +22,8 @@ http://stackoverflow.com/questions/32596203/cygwin-how-to-install-ansible
 + ansible --version
 
 + git submodule update --init --recursive
++ 
+
+####cygwin - sshpass setup:
++ https://github.com/Edgar0119/cygwin-sshpass 
+
