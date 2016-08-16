@@ -11,7 +11,9 @@
 
 ###for cygwin: 
 
-http://stackoverflow.com/questions/32596203/cygwin-how-to-install-ansible
+- http://www.jeffgeerling.com/blog/running-ansible-within-windows
+
+- http://stackoverflow.com/questions/32596203/cygwin-how-to-install-ansible
 
 + type apt-cyg || exit
 + apt-cyg install git python-{jinja2,six,yaml}
